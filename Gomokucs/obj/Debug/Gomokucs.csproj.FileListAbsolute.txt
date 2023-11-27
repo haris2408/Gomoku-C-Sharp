@@ -1,0 +1,10 @@
+C:\Users\mcb\source\repos\Gomokucs\Gomokucs\bin\Debug\Gomokucs.exe.config
+C:\Users\mcb\source\repos\Gomokucs\Gomokucs\bin\Debug\Gomokucs.exe
+C:\Users\mcb\source\repos\Gomokucs\Gomokucs\bin\Debug\Gomokucs.pdb
+C:\Users\mcb\source\repos\Gomokucs\Gomokucs\obj\Debug\Gomokucs.csprojAssemblyReference.cache
+C:\Users\mcb\source\repos\Gomokucs\Gomokucs\obj\Debug\Gomokucs.Gomoku.resources
+C:\Users\mcb\source\repos\Gomokucs\Gomokucs\obj\Debug\Gomokucs.Properties.Resources.resources
+C:\Users\mcb\source\repos\Gomokucs\Gomokucs\obj\Debug\Gomokucs.csproj.GenerateResource.cache
+C:\Users\mcb\source\repos\Gomokucs\Gomokucs\obj\Debug\Gomokucs.exe
+C:\Users\mcb\source\repos\Gomokucs\Gomokucs\obj\Debug\Gomokucs.pdb
+C:\Users\mcb\source\repos\Gomokucs\Gomokucs\obj\Debug\Gomokucs.csproj.CoreCompileInputs.cache
